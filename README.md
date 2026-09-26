@@ -1,1 +1,1 @@
-# R25EH019
+Hi, I'm Apeksha, a B.Tech student specializing in Artificial Intelligence and Data Science at REVA University. I am passionate about technology, problem-solving, and learning new skills in programming and AI. I am currently building my foundation in C, Python, SQL, Data Science, Machine Learning, Git, and GitHub while exploring AI-based solutions and practical projects. I enjoy participating in hackathons, working on projects, and continuously improving my technical and problem-solving skills.
